@@ -48,9 +48,9 @@
 		<div class="modal-content">
 			<div class="modal-header tit-up">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<h4 class="modal-title">Customer Login</h4>
+				<h4 class="modal-title">Login</h4>
 			</div>
-			<div class="modal-body customer-box">
+			<div class="modal-body employee-box">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs">
 					<li><a class="active" href="#Login" data-toggle="tab">Login</a></li>
